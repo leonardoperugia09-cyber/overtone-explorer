@@ -1,5 +1,9 @@
 # Overtone Explorer
 
+![Overtone Explorer](thumbnail.png)
+
+**Open it: https://leonardoperugia09-cyber.github.io/overtone-explorer/**
+
 An interactive page that answers one question about a ringing black hole:
 **can you hear the 221 overtone?**
 
